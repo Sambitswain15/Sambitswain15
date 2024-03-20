@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm Sambit swain</h1>
 <h3 align="center">A passionate QA from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitswain15" alt="sambitswain15" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
