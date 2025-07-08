@@ -21,7 +21,7 @@ With a strong focus on creating scalable, reliable, and efficient test automatio
   <a href="mailto:sambitswain15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-sambitswain15%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sambitswain/" target="_blank">
+  <a href="https://www.linkedin.com/in/sambit-swain-732b0066/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sambit%20Swain-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/SambitSwainQA" target="_blank">
