@@ -102,7 +102,7 @@ I am always eager to expand my knowledge and improve my skills. Currently, I’m
 I’m open to discussing any QA-related challenges, collaborating on projects, or even helping you improve your testing workflows. Feel free to reach out to me via any of the following channels:
 
 - **Email**: [sambitswain15@gmail.com](mailto:sambitswain15@gmail.com)
-- **LinkedIn**: [Sambit Swain](https://www.linkedin.com/in/sambitswain/)
+- **LinkedIn**: [Sambit Swain](https://www.linkedin.com/in/sambit-swain-732b0066/)
 - **Twitter**: [@SambitSwainQA](https://twitter.com/SambitSwainQA)
 
 ---
