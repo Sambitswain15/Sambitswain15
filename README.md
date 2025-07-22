@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm <a href="https://github.com/Sambitswain15" target="_blank">Sambit Swain</a></h1>
-<h3 align="center">🚀 Senior QA Engineer | 🧪 Test Automation Expert | 💡 CI/CD Enthusiast | 📚 Lifelong Learner</h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Sambitswain15" target="_blank">Sambit Swain</a></h1>
+<h3 align="center">🚀 Senior QA Engineer | 🧪 Automation & CI/CD Specialist | 🧠 SDET | 💼 Test Strategist | 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sambitswain15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,78 +7,107 @@
 
 ---
 
-## 💡 About Me
+## 💡 Who Am I?
 
-🎯 I’m a passionate **QA Engineer** from 🇮🇳 with over **7 years** of experience ensuring quality across fast-paced, scalable software systems. I specialize in **test automation**, **API validation**, **CI/CD integration**, and **end-to-end quality engineering**.
+I'm a **Senior Quality Assurance Engineer** from 🇮🇳 with **7+ years** of end-to-end experience across the SDLC, delivering **high-quality, stable, and performance-optimized software**.
 
-🧠 My goal? Catch bugs before users do, ship with confidence, and promote a culture of quality from **Day 1**.
+🧪 I design robust test automation frameworks using **Cypress, Selenium, and Python**.  
+⚙️ I integrate these with **CI/CD pipelines (GitHub Actions, Jenkins)** for seamless, scalable testing.  
+🚀 I ensure **maximum test coverage**, early bug detection, and fast feedback cycles in Agile environments.
+
+> "Software quality is not a department. It's a culture."
 
 ---
 
-## 🛠️ My Toolbox
+## 🧰 Tools, Tech & Frameworks
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40" title="Cypress" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" title="Selenium" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" title="Mocha" />
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
   <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" title="JMeter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" />
 </p>
 
 ---
 
-## 🔥 What I Do Best
+## 🎯 My Core Competencies
 
-- 🧪 **Test Automation**: Architecting scalable frameworks using Cypress, Selenium & Python  
-- 🔗 **API Testing**: REST API validation with Postman, Rest Assured & custom tools  
-- 📊 **Performance Testing**: Load & stress testing using Apache JMeter  
-- 🧠 **Manual Testing**: Exploratory, functional, usability & regression testing  
-- 📱 **Mobile Testing**: iOS & Android apps using Appium & hands-on testing  
-- 🎨 **UI/UX Validation**: Ensuring clean, user-friendly, bug-free experiences  
+| Area | Skills |
+|------|--------|
+| ✅ **Test Automation** | Cypress, Selenium WebDriver, Playwright, Python |
+| 🔗 **API Testing** | Postman, REST Assured, Swagger |
+| ⚙️ **CI/CD Integration** | Jenkins, GitHub Actions, Docker |
+| 🧪 **Manual Testing** | Functional, Regression, Smoke, Exploratory |
+| 📱 **Mobile Testing** | Appium, Android Studio, Emulator & Real Devices |
+| 🧠 **Test Strategy** | Test Planning, Test Coverage, Risk-Based Testing |
+| 📈 **Performance Testing** | Apache JMeter, Load Testing |
+| 🛡️ **Bug Tracking** | JIRA, TestRail, Zephyr |
+| 🔍 **Code Management** | Git, GitHub, Bitbucket |
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 What Sets Me Apart?
+
+- 🚀 **Built scalable automation frameworks** that reduced regression time by 70%
+- 🧬 **Integrated automation with CI/CD pipelines** for daily smoke runs
+- 🛠️ **Developed reusable utilities** to test APIs and microservices
+- 🎯 **Collaborated cross-functionally** with devs, PMs, and BAs to shift testing left
+- 🧠 **Led QA initiatives** in Agile & DevOps-based development cycles
+
+> I believe in early bug detection, measurable QA metrics, and continuous quality delivery.
+
+---
+
+## 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sambitswain15&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitswain15&layout=compact&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sambitswain15&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitswain15&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-## 🌱 Currently Leveling Up
+## 🌱 Current Focus Areas
 
-- 🔁 Enhancing CI/CD workflows using **GitHub Actions** and **Jenkins**
-- 🎯 Mastering **Playwright** for next-gen automation speed
-- 🧬 Scaling **API automation** with reusable components
-- 📊 Building **QA dashboards** using Grafana & Prometheus
+- ⚙️ Building **modular, data-driven** Cypress & Playwright test suites
+- 🔁 Optimizing CI/CD pipelines with test gating, parallel execution & reporting
+- 📊 Implementing **test analytics dashboards** using Grafana & Prometheus
+- 🧪 Expanding **API automation** with schema validation & security testing
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔧 Cypress Automation Framework  
-Full-featured Cypress suite with modular structure, CI support, and page-object design.
+🔹 Modular POM-based Cypress suite  
+🔹 GitHub Actions integration  
+🔹 Realtime reports with Allure & Mocha
 
-### 🧪 Selenium + Python Automation  
-Scalable automation with PyTest, POM, and easy maintenance features.
-
----
-
-## 🤝 Why Work With Me?
-
-✅ **Strategic Automation** – I don't just write scripts; I build sustainable, maintainable solutions  
-✅ **Bug Prevention Mindset** – Quality starts from requirements, not just after development  
-✅ **Team Collaborator** – I align closely with devs, product, and business analysts  
-✅ **Always Evolving** – Tech-savvy, curious, and up-to-date with the latest testing trends
+### 🧪 Selenium + Python Framework  
+🔹 Selenium WebDriver + PyTest  
+🔹 Scalable structure for enterprise UI testing  
+🔹 Logging, screenshots & error tracking
 
 ---
 
-## 💬 Let’s Connect!
+## 🤝 Let’s Work Together
+
+✔️ Strategic QA leadership  
+✔️ Test automation architecture  
+✔️ CI/CD & DevOps integration  
+✔️ High-impact bug prevention  
+✔️ End-to-end quality ownership
+
+> Whether you're shipping a startup MVP or scaling an enterprise platform — **quality cannot be compromised**.
+
+---
+
+## 💬 Contact Me
 
 <p align="center">
   <a href="mailto:sambitswain15@gmail.com" target="_blank">
@@ -94,17 +123,18 @@ Scalable automation with PyTest, POM, and easy maintenance features.
 
 ---
 
-## 🚀 Open To
+## 🔍 Open To Opportunities
 
-- 💼 Full-Time QA / SDET Roles  
-- 🧪 Freelance Automation Projects  
+- 💼 Full-Time SDET / QA Engineering Roles  
+- 🧪 Automation Consulting or Freelance Projects  
 - 🌍 Open Source QA Contributions  
-- 🎤 QA Talks, Training, & Mentorship
+- 🎤 Conferences / Tech Talks / QA Mentorship  
+
+_“Let’s deliver clean code, bug-free experiences, and build products people trust.”_
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to support my projects!  
-Let’s build high-quality, bug-free software together.  
-_“Because great products deserve great testing.”_
+⭐ Star this profile if you liked it  
+🔁 Fork or reach out if you'd like to collaborate!  
+🛡️ Let’s test the future — together.
 
----
