@@ -108,5 +108,3 @@ Let’s build high-quality, bug-free software together.
 _“Because great products deserve great testing.”_
 
 ---
-
-Let me know if you'd like a **dark theme**, animation, or to embed a project demo!
