@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Sambitswain15" target="_blank">Sambit Swain</a></h1> <h3 align="center">🚀 Senior QA Engineer | 🧪 Automation Architect | ⚙️ CI/CD DevOps Tester | 💡 SDET | 📚 Lifelong Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sambitswain15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Sambitswain15"  target="_blank">Sambit Swain</a></h1> <h3 align="center">🚀 Senior QA Engineer | 🧪 Automation Architect | ⚙️ CI/CD DevOps Tester | 💡 SDET | 📚 Lifelong Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sambitswain15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 💡 About Me
 🎯 I’m a Senior QA Engineer from 🇮🇳 with 7+ years of real-world experience in Manual and Automation Testing, helping engineering teams ship high-quality, scalable software with confidence.
 
