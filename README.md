@@ -1,140 +1,82 @@
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Sambitswain15" target="_blank">Sambit Swain</a></h1>
-<h3 align="center">🚀 Senior QA Engineer | 🧪 Automation & CI/CD Specialist | 🧠 SDET | 💼 Test Strategist | 📚 Lifelong Learner</h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Sambitswain15" target="_blank">Sambit Swain</a></h1> <h3 align="center">🚀 Senior QA Engineer | 🧪 Automation Architect | ⚙️ CI/CD DevOps Tester | 💡 SDET | 📚 Lifelong Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sambitswain15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+💡 About Me
+🎯 I’m a Senior QA Engineer from 🇮🇳 with 7+ years of real-world experience in Manual and Automation Testing, helping engineering teams ship high-quality, scalable software with confidence.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sambitswain15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+✨ My mission is to break things before users do and ensure flawless digital experiences.
 
----
+💻 I specialize in building end-to-end automation frameworks, integrating tests into CI/CD pipelines, and driving shift-left testing strategies.
 
-## 💡 Who Am I?
+🧰 Tech Stack & Tooling
+<p align="center"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" title="Cypress" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" title="Selenium" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" /> <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins" /> <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" title="JMeter" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" /> </p>
+🧠 Skills & Expertise
+🔧 Category	💼 Expertise
+✅ Test Automation	Cypress, Selenium, Playwright, Python, JavaScript
+🔍 API Testing	Postman, REST Assured, Swagger
+⚙️ CI/CD & DevOps	Jenkins, GitHub Actions, Docker
+🧪 Manual Testing	Functional, Regression, Smoke, UAT
+📱 Mobile Testing	Appium, Android Studio
+📊 Performance	JMeter, Load Testing
+📌 Test Management	JIRA, Zephyr, TestRail
+🧩 Source Control	Git, GitHub, Bitbucket
 
-I'm a **Senior Quality Assurance Engineer** from 🇮🇳 with **7+ years** of end-to-end experience across the SDLC, delivering **high-quality, stable, and performance-optimized software**.
+🚀 Achievements & Highlights
+🧬 Designed automation frameworks reducing regression effort by 70%
 
-🧪 I design robust test automation frameworks using **Cypress, Selenium, and Python**.  
-⚙️ I integrate these with **CI/CD pipelines (GitHub Actions, Jenkins)** for seamless, scalable testing.  
-🚀 I ensure **maximum test coverage**, early bug detection, and fast feedback cycles in Agile environments.
+🔁 Set up daily CI-integrated smoke testing pipelines
 
-> "Software quality is not a department. It's a culture."
+🛠️ Developed custom reusable libraries for test data, reports, and API validations
 
----
+🎯 Partnered closely with DevOps, PMs, and Product teams to ensure release readiness
 
-## 🧰 Tools, Tech & Frameworks
+🧠 Conducted QA onboarding & knowledge sessions for junior testers
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40" title="Cypress" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" title="Selenium" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" width="40" title="JMeter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" />
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sambitswain15&show_icons=true&theme=tokyonight" height="160px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitswain15&layout=compact&theme=tokyonight" height="160px" /> </p>
+🌱 Currently Exploring
+🔗 Playwright for modern web automation
 
----
+📈 Test dashboards with Prometheus & Grafana
 
-## 🎯 My Core Competencies
+🧪 Schema-based API validation & fuzz testing
 
-| Area | Skills |
-|------|--------|
-| ✅ **Test Automation** | Cypress, Selenium WebDriver, Playwright, Python |
-| 🔗 **API Testing** | Postman, REST Assured, Swagger |
-| ⚙️ **CI/CD Integration** | Jenkins, GitHub Actions, Docker |
-| 🧪 **Manual Testing** | Functional, Regression, Smoke, Exploratory |
-| 📱 **Mobile Testing** | Appium, Android Studio, Emulator & Real Devices |
-| 🧠 **Test Strategy** | Test Planning, Test Coverage, Risk-Based Testing |
-| 📈 **Performance Testing** | Apache JMeter, Load Testing |
-| 🛡️ **Bug Tracking** | JIRA, TestRail, Zephyr |
-| 🔍 **Code Management** | Git, GitHub, Bitbucket |
+🧰 Contributing to open-source QA tooling
 
----
+📂 Featured Projects
+🔧 Cypress Automation Framework
+✔️ Modular POM structure
+✔️ GitHub Actions + Allure reports
+✔️ Built for speed, scale, and reusability
 
-## 🔥 What Sets Me Apart?
+🧪 Selenium + PyTest UI Framework
+✔️ Cross-browser automation
+✔️ CI-ready with Docker support
+✔️ Screenshot, logging, and report utilities
 
-- 🚀 **Built scalable automation frameworks** that reduced regression time by 70%
-- 🧬 **Integrated automation with CI/CD pipelines** for daily smoke runs
-- 🛠️ **Developed reusable utilities** to test APIs and microservices
-- 🎯 **Collaborated cross-functionally** with devs, PMs, and BAs to shift testing left
-- 🧠 **Led QA initiatives** in Agile & DevOps-based development cycles
+🤝 Let’s Collaborate
+✅ End-to-end QA ownership for products
 
-> I believe in early bug detection, measurable QA metrics, and continuous quality delivery.
+🧪 Scalable automation framework setup
 
----
+⚙️ DevOps & CI/CD test integration
 
-## 📈 GitHub Highlights
+📊 Test reporting & metrics dashboards
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sambitswain15&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitswain15&layout=compact&theme=tokyonight" height="160px" />
-</p>
+👨‍🏫 Mentoring QA teams & setting strategy
 
----
+“In QA, it’s not about finding defects. It’s about preventing them.”
 
-## 🌱 Current Focus Areas
+📬 Contact Me
+<p align="center"> <a href="mailto:sambitswain15@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-sambitswain15%40gmail.com-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/sambit-swain-732b0066/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Sambit%20Swain-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://twitter.com/SambitSwainQA" target="_blank"> <img src="https://img.shields.io/badge/Twitter-@SambitSwainQA-blue?style=for-the-badge&logo=twitter" /> </a> </p>
+🔍 Open to New Roles
+💼 Full-Time SDET / QA / Test Automation Engineer
 
-- ⚙️ Building **modular, data-driven** Cypress & Playwright test suites
-- 🔁 Optimizing CI/CD pipelines with test gating, parallel execution & reporting
-- 📊 Implementing **test analytics dashboards** using Grafana & Prometheus
-- 🧪 Expanding **API automation** with schema validation & security testing
+🔧 Freelance Automation Projects
 
----
+🌍 Open Source QA Contributor
 
-## 📂 Featured Projects
+🎤 QA Mentorship or Speaking Engagements
 
-### 🔧 Cypress Automation Framework  
-🔹 Modular POM-based Cypress suite  
-🔹 GitHub Actions integration  
-🔹 Realtime reports with Allure & Mocha
-
-### 🧪 Selenium + Python Framework  
-🔹 Selenium WebDriver + PyTest  
-🔹 Scalable structure for enterprise UI testing  
-🔹 Logging, screenshots & error tracking
-
----
-
-## 🤝 Let’s Work Together
-
-✔️ Strategic QA leadership  
-✔️ Test automation architecture  
-✔️ CI/CD & DevOps integration  
-✔️ High-impact bug prevention  
-✔️ End-to-end quality ownership
-
-> Whether you're shipping a startup MVP or scaling an enterprise platform — **quality cannot be compromised**.
-
----
-
-## 💬 Contact Me
-
-<p align="center">
-  <a href="mailto:sambitswain15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sambitswain15%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sambit-swain-732b0066/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sambit%20Swain-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/SambitSwainQA" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@SambitSwainQA-blue?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
-
----
-
-## 🔍 Open To Opportunities
-
-- 💼 Full-Time SDET / QA Engineering Roles  
-- 🧪 Automation Consulting or Freelance Projects  
-- 🌍 Open Source QA Contributions  
-- 🎤 Conferences / Tech Talks / QA Mentorship  
-
-_“Let’s deliver clean code, bug-free experiences, and build products people trust.”_
-
----
-
-⭐ Star this profile if you liked it  
-🔁 Fork or reach out if you'd like to collaborate!  
-🛡️ Let’s test the future — together.
+⭐ If you like what you see, give this profile a star!
+🔁 Fork or connect if you'd like to collaborate.
+🛠️ Let’s make testing faster, smarter, and better — together.
 
