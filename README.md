@@ -5,7 +5,6 @@
 </p>
 ---
 
-
 ## 📌 TL;DR
 - 🔹 7+ Years | Manual + Automation QA  
 - 🔹 Built 4+ frameworks (UI/API/Web)  
